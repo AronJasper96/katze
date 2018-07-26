@@ -1,0 +1,3 @@
+Create SQL: projetobeta / Used MySQL(XAMPP Package)
+Web DEV IDE - NetBeans (PHP)
+Java DEV IDE - NetBeans
